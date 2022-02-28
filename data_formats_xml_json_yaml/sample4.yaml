@@ -1,0 +1,18 @@
+---
+MyMapping:
+  Name: Ben
+  Age: 40
+  Locations: 
+    - NY
+    - CA
+    - MA
+  Active: True
+MyMapping2:
+  Name: Jane
+  Age: 35
+  Locations: 
+    First: CA
+    Second: NY
+    Third: MI
+  Active: FALSE
+
