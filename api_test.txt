@@ -1,1 +1,0 @@
-https://swapi.co/api/people/2/
