@@ -16,7 +16,7 @@ session = Session(url, user, pw)
 
 # Login to the session
 session.login()
-
+print('Hello')
 # Get tenants
 tenants = Tenant.get(session)
 for tenant in tenants:
